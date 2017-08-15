@@ -32,42 +32,42 @@
     [
         "C:\\Salesforce DX Projects\\Geolocation\\geolocation\\force-app\\main\\default",
         {
+            "state": "u",
             "sourcePath": "C:\\Salesforce DX Projects\\Geolocation\\geolocation\\force-app\\main\\default",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1502833187523,
-            "changeTime": 1502833187523,
-            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 0,
+            "modifiedTime": 1502833972140,
+            "changeTime": 1502833972140,
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
         }
     ],
     [
         "C:\\Salesforce DX Projects\\Geolocation\\geolocation\\force-app\\main\\default\\aura",
         {
-            "state": "u",
             "sourcePath": "C:\\Salesforce DX Projects\\Geolocation\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1502833559360,
             "changeTime": 1502833559360,
-            "isWorkspace": false,
-            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7"
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "C:\\Salesforce DX Projects\\Geolocation\\geolocation",
         {
-            "state": "u",
             "sourcePath": "C:\\Salesforce DX Projects\\Geolocation\\geolocation",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1502832067636,
             "changeTime": 1502832067636,
-            "isWorkspace": true,
-            "contentHash": "95dc74cccba8baf5e7c60eaa5036bec5691525c7"
+            "contentHash": "95dc74cccba8baf5e7c60eaa5036bec5691525c7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
         }
     ],
     [
@@ -853,92 +853,183 @@
     [
         "C:\\Salesforce DX Projects\\Geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
         {
-            "state": "u",
             "sourcePath": "C:\\Salesforce DX Projects\\Geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1502833559367,
             "changeTime": 1502833559367,
-            "contentHash": "f6bd7d3a23295ae7ef7a6f8a51c67ae972d48a28"
+            "contentHash": "f6bd7d3a23295ae7ef7a6f8a51c67ae972d48a28",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Salesforce DX Projects\\Geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Salesforce DX Projects\\Geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 252,
             "modifiedTime": 1502833674371,
             "changeTime": 1502833674371,
-            "contentHash": "441c7fe94992710a32ff0a07850827f1c7b2a776"
+            "contentHash": "441c7fe94992710a32ff0a07850827f1c7b2a776",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Salesforce DX Projects\\Geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Salesforce DX Projects\\Geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 246,
             "modifiedTime": 1502833559362,
             "changeTime": 1502833559362,
-            "contentHash": "93ad29ee05362ba61f7a3bbeabf9346e600169ce"
+            "contentHash": "93ad29ee05362ba61f7a3bbeabf9346e600169ce",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Salesforce DX Projects\\Geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
         {
-            "state": "u",
             "sourcePath": "C:\\Salesforce DX Projects\\Geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 91,
             "modifiedTime": 1502833706911,
             "changeTime": 1502833706911,
-            "contentHash": "14baa28d7d740e80c11f4d90a3c1393c1c758ca5"
+            "contentHash": "14baa28d7d740e80c11f4d90a3c1393c1c758ca5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Salesforce DX Projects\\Geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Salesforce DX Projects\\Geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 65,
             "modifiedTime": 1502833559363,
             "changeTime": 1502833559363,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Salesforce DX Projects\\Geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Salesforce DX Projects\\Geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1502833559364,
             "changeTime": 1502833559364,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Salesforce DX Projects\\Geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Salesforce DX Projects\\Geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1502833559367,
             "changeTime": 1502833559367,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Salesforce DX Projects\\Geolocation\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Salesforce DX Projects\\Geolocation\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 267,
+            "modifiedTime": 1502833972140,
+            "changeTime": 1502833972140,
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
+        }
+    ],
+    [
+        "C:\\Salesforce DX Projects\\Geolocation\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Salesforce DX Projects\\Geolocation\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18119,
+            "modifiedTime": 1502833972142,
+            "changeTime": 1502833972142,
+            "contentHash": "9c48d668752c980ff4e175ae31b1228407268664"
+        }
+    ],
+    [
+        "C:\\Salesforce DX Projects\\Geolocation\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Salesforce DX Projects\\Geolocation\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6001,
+            "modifiedTime": 1502833972143,
+            "changeTime": 1502833972143,
+            "contentHash": "a3e0259648daa926b32408e4c45905577e5c1b56"
+        }
+    ],
+    [
+        "C:\\Salesforce DX Projects\\Geolocation\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Salesforce DX Projects\\Geolocation\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5665,
+            "modifiedTime": 1502833972144,
+            "changeTime": 1502833972144,
+            "contentHash": "28aa78f5da9c28a170da9bd200341268ca40700c"
+        }
+    ],
+    [
+        "C:\\Salesforce DX Projects\\Geolocation\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Salesforce DX Projects\\Geolocation\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5661,
+            "modifiedTime": 1502833972145,
+            "changeTime": 1502833972145,
+            "contentHash": "fad07bdcd9f7fdcc4a0fca93d7b75dca7b32f689"
+        }
+    ],
+    [
+        "C:\\Salesforce DX Projects\\Geolocation\\geolocation\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Salesforce DX Projects\\Geolocation\\geolocation\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1502833972140,
+            "changeTime": 1502833972140,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+        }
+    ],
+    [
+        "C:\\Salesforce DX Projects\\Geolocation\\geolocation\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Salesforce DX Projects\\Geolocation\\geolocation\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1502833972144,
+            "changeTime": 1502833972144,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]
